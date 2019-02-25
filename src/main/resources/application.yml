@@ -24,4 +24,4 @@ spring:
     maxOpenPreparedStatements: 20
 mybatis-plus:
   mapper-locations: classpath:mapper/*.xml
-  type-aliases-package: com.wlqq.winter.domain
+  type-aliases-package: com.hehuan.winter.domain
