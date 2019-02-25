@@ -1,4 +1,4 @@
-package com.wlqq.winter.controller;
+package com.hehuan.winter.controller;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.redis.core.RedisTemplate;

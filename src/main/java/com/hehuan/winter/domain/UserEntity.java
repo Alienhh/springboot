@@ -1,4 +1,4 @@
-package com.wlqq.winter.domain;
+package com.hehuan.winter.domain;
 
 import com.baomidou.mybatisplus.annotations.TableField;
 import com.baomidou.mybatisplus.annotations.TableId;

@@ -1,6 +1,6 @@
-package com.wlqq.winter.controller;
+package com.hehuan.winter.controller;
 
-import com.wlqq.winter.common.Result;
+import com.hehuan.winter.common.Result;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;

@@ -1,4 +1,4 @@
-package com.wlqq.winter.common;
+package com.hehuan.winter.common;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;

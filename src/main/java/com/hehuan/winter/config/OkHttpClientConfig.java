@@ -1,4 +1,4 @@
-package com.wlqq.winter.config;
+package com.hehuan.winter.config;
 
 import okhttp3.OkHttpClient;
 import org.springframework.context.annotation.Bean;

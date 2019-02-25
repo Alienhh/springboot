@@ -1,9 +1,9 @@
-package com.wlqq.winter.controller;
+package com.hehuan.winter.controller;
 
 import com.baomidou.mybatisplus.mapper.EntityWrapper;
-import com.wlqq.winter.common.Result;
-import com.wlqq.winter.dao.UserEntityDao;
-import com.wlqq.winter.domain.UserEntity;
+import com.hehuan.winter.common.Result;
+import com.hehuan.winter.dao.UserEntityDao;
+import com.hehuan.winter.domain.UserEntity;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;

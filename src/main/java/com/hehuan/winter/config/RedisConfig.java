@@ -1,4 +1,4 @@
-package com.wlqq.winter.config;
+package com.hehuan.winter.config;
 
 import com.fasterxml.jackson.annotation.JsonAutoDetect;
 import com.fasterxml.jackson.annotation.PropertyAccessor;
